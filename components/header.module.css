@@ -1,0 +1,29 @@
+.navBarContainer {
+    display: flex;
+    padding: 1.2rem 2rem;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f8f3e3 ;
+}
+
+.navButton {
+    font-weight: bold;
+    padding: 0.8rem;
+    color: #363636;
+}
+
+.registerButton {
+    background-color: #363636;
+    color: white;
+    padding: 0.6rem;
+    border-radius: 0.8rem;
+    margin: 0rem 0.2rem;
+}
+
+.loginButton {
+    background-color: red;
+    color: white;
+    padding: 0.6rem;
+    border-radius: 0.8rem;
+    margin: 0rem 0.2rem;
+}

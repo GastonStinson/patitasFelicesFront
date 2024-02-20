@@ -1,0 +1,137 @@
+[
+    {
+        "name": "Max",
+        "city": "Resistencia",
+        "species": "gato",
+        "age": 2,
+        "size": "Grande",
+        "gender": "Masculino",
+        "neutered": true,
+        "info": "Max es un gato que le encanta dormir",
+        "breed": "bengalí",
+        "adopted": false,
+        "images": [
+            "https://cdn2.thecatapi.com/images/4td.jpg"
+        ]
+    },
+    {
+        "name": "Pelusa",
+        "city": "Resistencia",
+        "species": "gato",
+        "age": 0,
+        "size": "Pequeño",
+        "gender": "Masculino",
+        "neutered": false,
+        "info": "Tiene unos meses",
+        "breed": "No lo sé",
+        "adopted": false,
+        "images": [
+            "https://cdn2.thecatapi.com/images/89p.jpg"
+        ]
+    },
+    {
+        "name": "Victor",
+        "city": "Resistencia",
+        "species": "gato",
+        "age": 1,
+        "size": "Grande",
+        "gender": "Masculino",
+        "neutered": true,
+        "info": "Es muy amable y sociable",
+        "breed": "Siamés",
+        "adopted": false,
+        "images": [
+            "https://cdn2.thecatapi.com/images/stVqmJmi7.jpg"
+        ]
+    },
+    {
+        "name": "Bucky",
+        "city": "Resistencia",
+        "species": "perro",
+        "age": 3,
+        "size": "Grande",
+        "gender": "Masculino",
+        "neutered": true,
+        "info": "Lorem ipsum",
+        "breed": "bengalí",
+        "adopted": false,
+        "images": [
+            "https://cdn2.thedogapi.com/images/Syszjx9Em_1280.jpg"
+        ]
+    },
+    {
+        "name": "Alma",
+        "city": "Resistencia",
+        "species": "perro",
+        "age": 2,
+        "size": "Grande",
+        "gender": "Femenino",
+        "neutered": true,
+        "info": "Lorem ipsum",
+        "breed": "bengalí",
+        "adopted": false,
+        "images": [
+            "https://cdn2.thedogapi.com/images/BjFmVohkU.jpg"
+        ]
+    },
+    {
+        "name": "Max",
+        "city": "Resistencia",
+        "species": "gato",
+        "age": 2,
+        "size": "Grande",
+        "gender": "Masculino",
+        "neutered": true,
+        "info": "Max es un gato que le encanta dormir",
+        "breed": "bengalí",
+        "adopted": false,
+        "images": [
+            "https://cdn2.thecatapi.com/images/4td.jpg"
+        ]
+    },
+    {
+        "name": "Max",
+        "city": "Resistencia",
+        "species": "gato",
+        "age": 2,
+        "size": "Grande",
+        "gender": "Masculino",
+        "neutered": true,
+        "info": "Max es un gato que le encanta dormir",
+        "breed": "bengalí",
+        "adopted": false,
+        "images": [
+            "https://cdn2.thecatapi.com/images/4td.jpg"
+        ]
+    },
+    {
+        "name": "Max",
+        "city": "Resistencia",
+        "species": "gato",
+        "age": 2,
+        "size": "Grande",
+        "gender": "Masculino",
+        "neutered": true,
+        "info": "Max es un gato que le encanta dormir",
+        "breed": "bengalí",
+        "adopted": false,
+        "images": [
+            "https://cdn2.thecatapi.com/images/4td.jpg"
+        ]
+    },
+    {
+        "name": "Max",
+        "city": "Resistencia",
+        "species": "gato",
+        "age": 2,
+        "size": "Grande",
+        "gender": "Masculino",
+        "neutered": true,
+        "info": "Max es un gato que le encanta dormir",
+        "breed": "bengalí",
+        "adopted": false,
+        "images": [
+            "https://cdn2.thecatapi.com/images/4td.jpg"
+        ]
+    }
+]

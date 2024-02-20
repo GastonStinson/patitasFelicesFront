@@ -1,0 +1,53 @@
+.logo {
+        display: flex;
+        justify-content: center; /* Centrado horizontal */
+        align-items: center; /* Centrado vertical */
+        
+      }
+
+.parrafo {
+    text-align: center;
+    font-size: 15px;
+    color: #555;
+}      
+
+.navegacion {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+.h6 {
+    color: red;
+    font-weight: bold;
+
+}
+      
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Ajusta el espaciado horizontal entre las columnas */
+    align-items: flex-start;
+    flex-direction: column;
+    margin: 10px 10;
+    
+}
+
+.columna {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 20;
+}
+.boton {
+    color: white;
+    background-color: red;
+    border-radius: 20px; /* Controla el radio de los bordes */
+    padding: 10px 20px; /* Ajusta el relleno según sea necesario */
+    cursor: pointer;
+      
+}
+
+.footer{ 
+    background-color: #f8f3e3 ;
+}

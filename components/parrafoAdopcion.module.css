@@ -1,0 +1,13 @@
+.paragraphContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0 20%;
+    padding: 3rem;
+}
+
+.adopcionTitle {
+    font-size: 2.2rem;
+    font-weight: bold;
+    color: #363636;
+}
