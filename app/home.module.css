@@ -3,6 +3,8 @@
     width: 100vw;
     height: 80vh;
     display: flex;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .left {
@@ -28,11 +30,6 @@
 
 .right {
    width: 50%;
-   
-
- 
-   
-   
 }
 
 .stats {
@@ -42,11 +39,23 @@
     background-color: rgba(255, 255, 255, 0.5);
     border-radius: .4rem 0rem 0rem 0.4rem;
     margin: 35em 0 0 0;
-    
-    
 }
 
 .h5 {
     color: red;
     font-weight: 1000;
 }
+
+.contactanosButton{
+    background-color: red;
+    color: white;
+    padding: 0.6rem;
+    border-radius: 0.8rem;
+    margin: 0rem 0.2rem;
+  
+}
+.rojo {
+    color: red;
+}
+
+

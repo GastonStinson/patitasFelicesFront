@@ -1,4 +1,8 @@
 import style from "./home.module.css";
+import Cards from "@/components/Cards";
+import Patrocinadores from "@/components/patrocinadores";
+import Fundaciones from "@/components/fundaciones";
+
 
 export default function Home() {
   return (
@@ -30,6 +34,42 @@ export default function Home() {
           </div>
         </div>
       </div>
+      <h2>Conocé a tu próxima mascota</h2>
+      <p>Ellos te esperan para brindarte todo el amor y companía que necesitas. ¿Qué estás esperando? </p>
+      <Cards />
+      <Patrocinadores />
+      <div>
+      <p>El proceso</p>
+      <h2>Narices frías y corazones contentos</h2>
+      <p>Al momento de adoptar asumís un acto de responsabilidad y compromiso por lo que es importante que estés capacitado para hacerlo. </p>
+      </div>
+      <div>
+
+      </div>
+
+      <button className={style.contactanosButton}>Contactanos</button>
+      <Fundaciones />
+      <div>
+        <h1 className={style.dar}>Dar<span className={style.rojo}> amor</span>,para recibir<span className={style.rojo}> amor</span></h1>
+        <p>La vida es como el eco; Lo que das, lo recibes. Lo que siembras, cosechas. Lo que ves en otros, es tu propio reflejo. La vida es como el eco.... Siempre te regresa lo que das.Rescatando, defendiendo, cuidando, esterilizando, educando.. Todos los días trabajando para construir un lugar mejor! Agradecemos tu interés, apoyo y ayuda al Refugio.¡Haces que nuestra motivación, trabajo y equipo siga creciendo día a día! Derrotemos al abandono y promovamos el bienestar y felicidad</p>
+        <button className={style.contactanosButton}>Hace tu donación</button>
+        
+      </div>
+
+      <h2>Nuestro comportamiento</h2>
+
+    <div>
+      
+
+
+
+    </div>
+
+      
+
+
+
+
     </main>
   );
 }
