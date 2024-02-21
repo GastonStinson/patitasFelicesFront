@@ -11,7 +11,7 @@ export default function Footer() {
         <Image src={logo} alt="logo" />{" "}
       </div>
       <nav className={style.navegacion}>
-        <div className={style.contenedor}>
+        <div className={`${style.contenedor} ${style.explorar}`}>
           <h6 className={style.h6}>Explorar</h6>
           <div className={style.columna}>
             <Link href="/inicio">Inicio</Link>

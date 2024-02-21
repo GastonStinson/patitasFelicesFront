@@ -30,9 +30,13 @@
     justify-content: space-between; /* Ajusta el espaciado horizontal entre las columnas */
     align-items: flex-start;
     flex-direction: column;
-    margin: 10px 10;
+    margin: 40px 10;
     
 }
+.contenedor.explorar {
+    margin: 40px 30px; /* Aumenta el margen lateral a 30px */
+}
+
 
 .columna {
     display: flex;

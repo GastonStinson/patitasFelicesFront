@@ -16,15 +16,15 @@ export default function Home() {
         <div className={style.right}>
           <div className={style.stats}>
             <div>
-              <h5>544</h5>
+              <h5 className={style.h5}>544</h5>
               <p>Esperando un hogar</p>
             </div>
             <div>
-              <h5>756</h5>
+              <h5 className={style.h5}>756</h5>
               <p>Adoptados el ultimo año</p>
             </div>
             <div>
-              <h5>422</h5>
+              <h5 className={style.h5}>422</h5>
               <p>En transito</p>
             </div>
           </div>
