@@ -1,0 +1,38 @@
+.derecha {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+.contactanosButton {
+    background-color: red;
+    color: white;
+    padding: 0.6rem;
+    border-radius: 0.8rem;
+    margin: 0rem 0.2rem;
+    align: center;
+    justify-content: center;
+    
+  
+}
+
+.h2 {
+    display: flex;
+    
+    weight: 900;
+    size: 48px;
+
+
+}
+.elementos {
+    
+    display: flex;
+    justify-content: space-between;
+    grid-template-rows: repeat(4, 1fr); /* Cuatro columnas en el segundo renglón */
+  }
+  .patrocinadorImg {
+    width: 20%;
+    height: auto;
+    
+  }

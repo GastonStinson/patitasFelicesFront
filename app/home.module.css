@@ -58,4 +58,15 @@
     color: red;
 }
 
+.h2 {
+    font-weight:bold;
+    weight: 900;
+    text-align:center;
+    size: 48px;
+}
 
+.texto1{
+    text-align: center;
+    weight: 500;
+    size: 20px;
+}
