@@ -16,10 +16,10 @@ export default function cajanarices() {
 
 
             <div className={style.elementos}>
-                <Image className={style.patrocinadorImg} src="/images/narices.png" width={735.96} height={354} alt="logo-ayudacan" />
-                <Image className={style.patrocinadorImg} src="/images/narices2.png" width={735.96} height={354} alt="logo-ayudacan" />
-                <Image className={style.patrocinadorImg} src="/images/narices3.png" width={735.96} height={354} alt="logo-ayudacan" />
-                <Image className={style.patrocinadorImg} src="/images/narices4.png" width={735.96} height={354} alt="logo-ayudacan" />
+                <Image className={style.patrocinadorImgarriba} src="/images/narices.png" width={735.96} height={354} alt="logo-ayudacan" />
+                <Image className={style.patrocinadorImgabajo} src="/images/narices2.png" width={735.96} height={354} alt="logo-ayudacan" />
+                <Image className={style.patrocinadorImgarriba} src="/images/narices3.png" width={735.96} height={354} alt="logo-ayudacan" />
+                <Image className={style.patrocinadorImgabajo} src="/images/narices4.png" width={735.96} height={354} alt="logo-ayudacan" />
 
 
             </div>
