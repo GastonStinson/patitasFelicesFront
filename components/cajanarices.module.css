@@ -3,6 +3,16 @@
     justify-content: flex-end;
 }
 
+/* .cuerpo {
+    background-image: url('');
+
+  background-size: cover;
+  background-position: center;
+  
+  z-index: 1;
+  position: relative;
+} */
+
 
 
 .contactanosButton {
@@ -35,4 +45,10 @@
     width: 20%;
     height: auto;
     
+  }
+  .contenedorboton {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
   }

@@ -1,5 +1,5 @@
 import style from "./home.module.css";
-import Cards from "@/components/Cards";
+import Cardchica from "@/components/cardchica";
 import Patrocinadores from "@/components/patrocinadores";
 import Fundaciones from "@/components/fundaciones";
 import Cajaimagenes from "@/components/cajaimagenes";
@@ -41,14 +41,10 @@ export default function Home() {
       </div>
       <h2 className={style.h2}>Conocé a tu próxima mascota</h2>
       <p className={style.texto1}>Ellos te esperan para brindarte todo el amor y companía que necesitas. ¿Qué estás esperando? </p>
-      <Cards />
+      <Cardchica />
       <Patrocinadores />
       
-      {/* <div>
-        <p>El proceso</p>
-        <h2>Narices frías y corazones contentos</h2>
-        <p>Al momento de adoptar asumís un acto de responsabilidad y compromiso por lo que es importante que estés capacitado para hacerlo. </p>
-      </div> */}
+      
       <Cajanarices/>
       
 
