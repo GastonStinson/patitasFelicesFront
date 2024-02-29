@@ -38,9 +38,7 @@ export default function Footer() {
         <div className={style.contenedor}>
           <h6 className={style.h6}>Seguinos en nuestras Redes</h6>
           <div>
-            {/* <Image />
-              <Image />
-              <Image /> */}
+            
           </div>
           <div>
             <input type="text" />
@@ -50,7 +48,7 @@ export default function Footer() {
       </nav>
 
       <div>
-        {/* <Image /> */}
+        
         <p className={style.parrafo}>Todos los derechos reservados</p>
       </div>
     </footer>

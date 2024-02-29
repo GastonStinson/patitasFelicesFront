@@ -1,0 +1,95 @@
+.costadoIzquierdo{
+    position: absolute;
+    top: 50%;
+    left: 0; /* Alinea el elemento a la izquierda */
+    transform: translateY(-50%);
+    padding-left: 30px;
+}
+
+.ingresar{
+ font-weight: bold;
+ font-size: 32px
+}
+.mensaje{
+font-weight: bold;
+font-size: 16px;
+}
+
+.parrafo{
+font-weight: bold;
+font-size: 16px;
+}
+
+.label {
+    border: 1px solid #DADADA; /* Define el borde con un grosor de 1px y un color sólido negro */
+    padding: 5px; /* Agrega un espacio interno alrededor del texto del label para que el borde no esté pegado al texto */
+    display: inline-block; 
+    width: 428px;
+    height: 50px;
+    color: red;
+    border-radius: 4px;
+    
+}
+
+.boton {
+    border: 2px solid red;
+    padding: 5px; /* Agrega un espacio interno alrededor del texto del label para que el borde no esté pegado al texto */
+    display: inline-block; 
+    width: 23px;
+    height: 23px;
+   
+}
+
+.botonrojo{
+    background-color: red;
+    width: 428px;
+    height: 48px;
+    border-radius: 8px;
+    color: white;
+    
+}
+
+.recordame {
+    display: block;
+}
+
+.contenedorlinea {
+    position: relative; /* Establece la posición relativa para que los elementos absolutos se posicionen en relación con este contenedor */
+    height: 3px; /* Define la altura de la línea */
+    background-color: black; /* Define el color de la línea */
+  }
+  
+  .circulo {
+    position: absolute; /* Establece la posición absoluta para poder posicionar el círculo dentro del contenedor */
+    top: 50%; /* Coloca el círculo en el centro verticalmente */
+    left: 50%; /* Coloca el círculo en el centro horizontalmente */
+    transform: translate(-50%, -50%); /* Centra el círculo correctamente */
+    width: 20px; /* Define el ancho del círculo */
+    height: 20px; /* Define la altura del círculo */
+    border-radius: 50%; /* Hace que el círculo tenga bordes redondeados */
+    background-color: white; /* Define el color del círculo */
+    border-color: black;
+    
+  }
+
+  .ingresarred {
+    border: 1px solid #DADADA; /* Define el borde con un grosor de 1px y un color sólido negro */
+    padding: 5px; /* Agrega un espacio interno alrededor del texto del label para que el borde no esté pegado al texto */
+    display: block;
+    width: 428px;
+    height: 50px;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 8px;
+    
+}
+.rojo {
+    color: red;
+    size: 16px;
+}
+
+.registrocuenta {
+    padding-left: 50px;
+}
+  
